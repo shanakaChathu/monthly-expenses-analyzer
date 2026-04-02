@@ -1,3 +1,26 @@
-# Personal/sensitive files
-adcb_march.pdf
+# Personal / sensitive files — never commit these
 data/
+db/expenses.db
+*.pdf
+
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

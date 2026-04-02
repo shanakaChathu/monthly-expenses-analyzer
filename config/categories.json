@@ -1,0 +1,137 @@
+{
+  "categories": [
+    {
+      "name": "Food & Dining",
+      "color": "#FF6B6B",
+      "icon": "🍽️",
+      "keywords": [
+        "restaurant", "cafe", "coffee", "pizza", "burger", "sushi",
+        "mcdonalds", "kfc", "subway", "starbucks", "costa", "tim hortons",
+        "carrefour", "lulu", "spinneys", "waitrose", "noon food", "talabat",
+        "deliveroo", "zomato", "just eat", "shake shack", "five guys",
+        "nandos", "pizza hut", "dominos", "papa johns", "hardees",
+        "popeyes", "taco bell", "chipotle", "wagamama", "dining", "bakery",
+        "supermarket", "grocery", "food", "eat", "drink", "bar", "pub",
+        "juice", "smoothie", "dessert", "ice cream", "sweets", "chocolate"
+      ]
+    },
+    {
+      "name": "Transport",
+      "color": "#4ECDC4",
+      "icon": "🚗",
+      "keywords": [
+        "taxi", "uber", "careem", "lyft", "rta", "metro", "bus", "tram",
+        "parking", "petrol", "fuel", "gas station", "adnoc", "enoc", "eppco",
+        "emarat", "shell", "bp", "total", "auto", "car wash", "valet",
+        "salik", "toll", "airport", "airline", "emirates", "etihad", "flydubai",
+        "air arabia", "flynas", "transport", "transit", "vehicle", "motorcycle"
+      ]
+    },
+    {
+      "name": "Shopping",
+      "color": "#45B7D1",
+      "icon": "🛍️",
+      "keywords": [
+        "mall", "zara", "h&m", "uniqlo", "gap", "nike", "adidas", "puma",
+        "amazon", "noon", "namshi", "ounass", "harvey nichols", "bloomingdales",
+        "marks spencer", "next", "primark", "forever21", "pull&bear",
+        "bershka", "massimo dutti", "reserved", "new look", "topshop",
+        "clothing", "fashion", "apparel", "shoes", "accessories", "jewellery",
+        "watch", "bag", "handbag", "electronics", "appliance", "furniture",
+        "home decor", "ikea", "pan emirates", "homes r us", "danube",
+        "lulu hypermarket", "hypermarket", "department store", "retail"
+      ]
+    },
+    {
+      "name": "Travel & Staycation",
+      "color": "#96CEB4",
+      "icon": "✈️",
+      "keywords": [
+        "hotel", "resort", "marriott", "hilton", "hyatt", "sheraton",
+        "intercontinental", "radisson", "ritz carlton", "four seasons",
+        "atlantis", "jumeirah", "rotana", "melia", "novotel", "ibis",
+        "airbnb", "booking.com", "expedia", "agoda", "trivago",
+        "holiday", "vacation", "travel", "tour", "tourism", "visit",
+        "staycation", "spa", "beach", "pool", "resort fee", "accommodation",
+        "flight", "ticket", "visa", "passport", "baggage", "luggage"
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "color": "#FFEAA7",
+      "icon": "🎬",
+      "keywords": [
+        "cinema", "movie", "theatre", "concert", "event", "vox cinemas",
+        "reel cinemas", "novo cinemas", "netflix", "spotify", "apple music",
+        "youtube", "disney", "hbo", "amazon prime", "shahid", "starzplay",
+        "gaming", "playstation", "xbox", "steam", "app store", "google play",
+        "bowling", "laser tag", "escape room", "theme park", "zoo",
+        "aquarium", "museum", "gallery", "art", "sports", "gym", "fitness",
+        "yoga", "pilates", "tennis", "golf", "swimming", "amusement"
+      ]
+    },
+    {
+      "name": "Health & Wellness",
+      "color": "#DDA0DD",
+      "icon": "💊",
+      "keywords": [
+        "pharmacy", "hospital", "clinic", "doctor", "dentist", "optical",
+        "aster", "life pharmacy", "boots", "health", "medical", "medicine",
+        "vitamin", "supplement", "lab", "test", "scan", "insurance",
+        "gym", "fitness", "yoga", "wellness", "massage", "spa", "salon",
+        "haircut", "barber", "beauty", "skincare", "cosmetics", "derma"
+      ]
+    },
+    {
+      "name": "Bills & Utilities",
+      "color": "#B8B8B8",
+      "icon": "📱",
+      "keywords": [
+        "etisalat", "du", "dewa", "sewa", "addc", "adwea", "utility",
+        "electricity", "water", "internet", "broadband", "mobile", "phone",
+        "telecom", "subscription", "insurance", "rent", "mortgage",
+        "service charge", "maintenance", "repairs", "plumber", "electrician",
+        "municipality", "government fee", "registration", "renewal"
+      ]
+    },
+    {
+      "name": "Education",
+      "color": "#98D8C8",
+      "icon": "📚",
+      "keywords": [
+        "school", "university", "college", "tuition", "course", "training",
+        "workshop", "seminar", "books", "stationery", "library",
+        "udemy", "coursera", "linkedin learning", "skillshare",
+        "tutoring", "coaching", "education", "study", "exam", "certification"
+      ]
+    },
+    {
+      "name": "Government & Services",
+      "color": "#F0A500",
+      "icon": "🏛️",
+      "keywords": [
+        "government", "ministry", "municipality", "rta", "ica", "dnrd",
+        "amer", "tasheel", "typing", "visa", "passport", "id", "license",
+        "traffic", "fine", "penalty", "court", "legal", "notary",
+        "embassy", "consulate", "attestation", "translation"
+      ]
+    },
+    {
+      "name": "Transfers & Payments",
+      "color": "#AED6F1",
+      "icon": "💸",
+      "keywords": [
+        "transfer", "payment", "remittance", "western union", "money gram",
+        "exchange", "forex", "currency", "atm", "cash withdrawal",
+        "bank charge", "fee", "interest", "loan", "credit", "debit",
+        "bill payment", "utility payment", "salary"
+      ]
+    },
+    {
+      "name": "Others",
+      "color": "#D5DBDB",
+      "icon": "📦",
+      "keywords": []
+    }
+  ]
+}
